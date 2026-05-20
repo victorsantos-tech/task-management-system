@@ -3,19 +3,19 @@
 
 Aplicação Full Stack para gerenciamento de tarefas.
 
-## 🚀 Tecnologias
+ Tecnologias 
 - React
 - Flask
 - Python
 - JavaScript
 
-## ✅ Funcionalidades
+ Funcionalidades
 - Criar tarefas
 - Listar tarefas
 - Deletar tarefas
 - Integração entre frontend e backend
 
-## ▶️ Como rodar
+ Como rodar de forma simples
 
 ### Backend:
 cd backend
